@@ -33,10 +33,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yongxingzhao&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yongxingzhao&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yongxingzhao&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yongxingzhao&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
