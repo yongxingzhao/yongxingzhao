@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yongxingzhao">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+with+code+and+music;Exploring+the+world+through+programming;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Less+is+more.;Keep+it+simple.;Do+more+with+less." alt="Typing SVG" />
   </a>
 </p>
 
